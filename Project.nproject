@@ -2,6 +2,7 @@
     "name": "Air Shipped",
     "guid": "d44d9ce1-755b-42bd-a5f6-b3a3a92d4bf2",
     "version": "1.0.0",
+    "database_guid": "0ae83e2b-fe3c-2d64-23fe-ddd06d993d81",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
         "EAF8C037-4ADF-4A97-99FD-915341D1854C",
@@ -12,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "f1ff196a-6f09-41ea-a4be-6d2bc1820466",
-    "default_scene": "a1bd1d59-6cd8-4c49-842a-fece6a174687",
+    "default_scene": "1a8c50aa-b583-412e-b9b3-d619d4da3bf5",
     "source": "Project.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
